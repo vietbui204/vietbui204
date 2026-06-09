@@ -1,115 +1,112 @@
-<div align="center">
-
-# Hi, I'm Duck Viet
-
-### Frontend-focused Developer building clean web and mobile experiences
-
-I'm a developer based in Ha Noi, Viet Nam. I enjoy turning ideas into practical products, from portfolio websites and manga reading apps to small tools and graphics projects.
-
-[![GitHub followers](https://img.shields.io/github/followers/vietbui204?style=for-the-badge&logo=github&label=Follow)](https://github.com/vietbui204)
-[![Profile views](https://komarev.com/ghpvc/?username=vietbui204&style=for-the-badge&color=0e75b6)](https://github.com/vietbui204)
-
-[Portfolio](https://profile-portfolio-neon.vercel.app) | [GitHub](https://github.com/vietbui204)
-
-</div>
-
----
+<h3 align="center">Hi! My name's</h3>
+<h1 align="center">Duck Viet</h1>
 
 ## About Me
 
-- I build web interfaces with a focus on clarity, responsiveness, and user experience.
-- I am exploring frontend development, mobile apps, and practical software projects.
-- I like learning by building real projects and improving them step by step.
-- Current focus: TypeScript, React, Flutter, and full-stack web fundamentals.
+I'm a developer from Ha Noi, Viet Nam, focusing on building clean and practical web and mobile experiences. I enjoy turning ideas into real products, especially portfolio websites, manga reading platforms, small automation tools, and interactive graphics projects.
+
+My current learning path is centered around **Frontend Development**, **TypeScript**, **React**, **Flutter**, and practical software engineering fundamentals. I like improving projects step by step, from UI structure and responsiveness to deployment and user experience.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-<div align="center">
+### **Programming Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-</div>
+### **Frontend & Web Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### **Mobile Development**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### **Tools, Deployment & Graphics**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Personal Portfolio</h3>
-      <p>A modern portfolio website to present my profile, projects, and development work.</p>
-      <p>
-        <a href="https://github.com/vietbui204/profile-portfolio">Repository</a>
-        -
-        <a href="https://profile-portfolio-neon.vercel.app">Live Demo</a>
-      </p>
-      <p><strong>Tech:</strong> TypeScript, frontend UI, Vercel</p>
-    </td>
-    <td width="50%">
-      <h3>Reading Manhwa App</h3>
-      <p>A mobile reading app concept for browsing and reading manhwa content.</p>
-      <p>
-        <a href="https://github.com/vietbui204/reading-manhwa-app">Repository</a>
-      </p>
-      <p><strong>Tech:</strong> Dart, Flutter</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Website Manga</h3>
-      <p>A web-based manga project focused on browsing and reading manga content in the browser.</p>
-      <p>
-        <a href="https://github.com/vietbui204/website-manga">Repository</a>
-      </p>
-      <p><strong>Tech:</strong> JavaScript, web development</p>
-    </td>
-    <td width="50%">
-      <h3>QR Code Scanner</h3>
-      <p>A small utility project for scanning QR codes and experimenting with practical automation.</p>
-      <p>
-        <a href="https://github.com/vietbui204/scan-qrcode">Repository</a>
-      </p>
-      <p><strong>Tech:</strong> Python</p>
-    </td>
-  </tr>
-</table>
+### **Personal Portfolio**
+
+A modern portfolio website for presenting my profile, projects, and development work.
+
+- **Repository**: [vietbui204/profile-portfolio](https://github.com/vietbui204/profile-portfolio)
+- **Live Demo**: [profile-portfolio-neon.vercel.app](https://profile-portfolio-neon.vercel.app)
+- **Tech**: TypeScript, frontend UI, Vercel
+
+### **Reading Manhwa App**
+
+A mobile reading app concept for browsing and reading manhwa content.
+
+- **Repository**: [vietbui204/reading-manhwa-app](https://github.com/vietbui204/reading-manhwa-app)
+- **Tech**: Dart, Flutter
+
+### **Website Manga**
+
+A web-based manga project focused on browsing and reading manga content in the browser.
+
+- **Repository**: [vietbui204/website-manga](https://github.com/vietbui204/website-manga)
+- **Tech**: JavaScript, web development
+
+### **QR Code Scanner**
+
+A small utility project for scanning QR codes and experimenting with practical automation.
+
+- **Repository**: [vietbui204/scan-qrcode](https://github.com/vietbui204/scan-qrcode)
+- **Tech**: Python
+
+### **OpenGL Cafe Shop**
+
+A C++ graphics project using OpenGL to create a cafe shop scene.
+
+- **Repository**: [vietbui204/Use-lib-opengl-to-create-cafeShop](https://github.com/vietbui204/Use-lib-opengl-to-create-cafeShop)
+- **Tech**: C++, OpenGL
 
 ---
 
-## More Work
-
-- [OpenGL Cafe Shop](https://github.com/vietbui204/Use-lib-opengl-to-create-cafeShop) - a C++ graphics project using OpenGL to create a cafe shop scene.
-- [All repositories](https://github.com/vietbui204?tab=repositories) - more experiments, learning projects, and public code.
-
----
-
-## GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vietbui204&color=blue&style=flat-square" alt="Profile Views" />
+</div>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vietbui204&show_icons=true&theme=tokyonight&hide_border=true" alt="Duck Viet GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietbui204&layout=compact&theme=tokyonight&hide_border=true" alt="Duck Viet top languages" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vietbui204&theme=github-dark-blue&border_radius=4&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_border=false" height="200" alt="GitHub Streak" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vietbui204&theme=github_dark&show_icons=true&hide_border=false" height="200" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vietbui204&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false" height="200" alt="Top Languages" />
 </div>
 
 ---
 
-## Contact
+## Contact Me
 
-<div align="center">
+- **GitHub**: [github.com/vietbui204](https://github.com/vietbui204)
+- **Portfolio**: [profile-portfolio-neon.vercel.app](https://profile-portfolio-neon.vercel.app)
+- **Location**: Van Tri, Bac Tu Liem, Ha Noi, Viet Nam
 
-I'm open to learning, collaboration, and building useful projects.
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-vietbui204-181717?style=for-the-badge&logo=github)](https://github.com/vietbui204)
-
-</div>
+> _"Build real projects, learn from each iteration, and keep improving the product experience."_
