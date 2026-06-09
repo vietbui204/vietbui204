@@ -3,9 +3,9 @@
 
 ## About Me
 
-I'm a developer from Ha Noi, Viet Nam, focusing on building clean and practical web and mobile experiences. I enjoy turning ideas into real products, especially portfolio websites, manga reading platforms, small automation tools, and interactive graphics projects.
+I'm a Full Stack Developer from Ha Noi, Viet Nam, with a focus on building practical, maintainable, and user-friendly software.
 
-My current learning path is centered around **Frontend Development**, **TypeScript**, **React**, **Flutter**, and practical software engineering fundamentals. I like improving projects step by step, from UI structure and responsiveness to deployment and user experience.
+My current knowledge is centered around **Frontend Development**, **Backend Fundamentals**, **TypeScript**, **React**, **Flutter**, **Python**, and practical software engineering. I care about understanding how applications work from UI and client-side logic to APIs, data flow, deployment, and product experience.
 
 ---
 
@@ -39,6 +39,12 @@ My current learning path is centered around **Frontend Development**, **TypeScri
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 
+### **AI Coding**
+
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
 ---
 
 ## Featured Projects
@@ -48,7 +54,7 @@ My current learning path is centered around **Frontend Development**, **TypeScri
 A modern portfolio website for presenting my profile, projects, and development work.
 
 - **Repository**: [vietbui204/profile-portfolio](https://github.com/vietbui204/profile-portfolio)
-- **Live Demo**: [profile-portfolio-neon.vercel.app](https://profile-portfolio-neon.vercel.app)
+- **Live Demo**: [profile-portfolio-buiducviet.vercel.app](https://profile-portfolio-buiducviet.vercel.app)
 - **Tech**: TypeScript, frontend UI, Vercel
 
 ### **Reading Manhwa App**
@@ -104,7 +110,9 @@ A C++ graphics project using OpenGL to create a cafe shop scene.
 ## Contact Me
 
 - **GitHub**: [github.com/vietbui204](https://github.com/vietbui204)
-- **Portfolio**: [profile-portfolio-neon.vercel.app](https://profile-portfolio-neon.vercel.app)
+- **Email**: [ducvietbui0@gmail.com](mailto:ducvietbui0@gmail.com)
+- **Phone**: 0926741822
+- **Portfolio**: [profile-portfolio-buiducviet.vercel.app](https://profile-portfolio-buiducviet.vercel.app)
 - **Location**: Van Tri, Bac Tu Liem, Ha Noi, Viet Nam
 
 ---
